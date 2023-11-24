@@ -1,1 +1,1 @@
-# Student-Network
+# Student-Network (Stack: Node.js)
