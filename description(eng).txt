@@ -1,0 +1,42 @@
+Project: Student Network
+
+1. Registration and Authorization:
+Possibility of registering new users using university mail.
+Authorization with password protection and hashing.
+
+2. User profile:
+The ability to add information about yourself (first name, last name, email, section about yourself, group), including educational achievements, interests and skills.
+User avatar.
+
+3. Groups and Courses:
+Possibility of creating and joining interest groups or courses.
+A forum for each group where students can discuss materials and assignments.
+
+4. Assignments and Assessments:
+The ability for teachers to add tasks, students to complete them and download the results.
+System for evaluating and storing results.
+
+5. Calendar and Events:
+Calendar with educational events, deadlines and important dates.
+Ability to create events and invite other users.
+
+6. Chat and Private Messages:
+General chat for each group.
+Private messages between users.
+
+7. News and Announcements:
+A system of news and announcements from the university administration and teachers.
+
+8. Vacancies and Projects:
+A section where students can find vacancies, internships and projects to participate in.
+
+9. Rating and Achievements:
+A rating system for students based on their activity and success.
+Badges and achievements for certain deeds.
+
+10. Administrative functionality:
+Dashboard for administrators with the ability to manage users, groups and content
+
+This project provides a common space for students to exchange information, study together, and develop academic and social experiences.
+
+Node.js, Express, PostgreSQL, SocketIO, Bcrypt will be used in the project.
